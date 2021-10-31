@@ -19,7 +19,6 @@ itsdangerous==1.1.0
 Jinja2==2.11.1
 joblib==1.0.1
 MarkupSafe==1.1.1
-nltk==3.6.2
 pefile==2021.5.24
 platformdirs==2.0.2
 pycparser==2.20
